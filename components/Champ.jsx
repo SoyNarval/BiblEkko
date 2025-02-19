@@ -49,7 +49,7 @@ export default function Champ({rol, setRol, setShowBest}) {
             
             <div className='flex gap-2'>
                 <div>
-                    <img className='h-24 w-24' src={`${img}ekko_0.jpg`}></img>
+                    <img className='h-24 w-24' src={`${img}Ekko_0.jpg`}></img>
                     <datalist id="roles-list">
                         <option value="TOP" />
                         <option value="JNG" />
